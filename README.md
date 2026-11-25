@@ -10,8 +10,12 @@ GET
 
 
 PUT 
+<img width="578" height="366" alt="{FFF8E790-C1D4-464F-8399-9D6A8BCBC73E}" src="https://github.com/user-attachments/assets/8ec9cc34-8a80-4a9a-ad68-ea434e468969" />
 
 POST
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6944dd9a-43d1-41ea-99d2-b370029766d0" />
 
 DELETE
+
+<img width="575" height="364" alt="{CE6014CB-B7C8-48B2-BDA3-A6249D7885AA}" src="https://github.com/user-attachments/assets/9cec443c-35d9-4e8d-9cdd-7730f697e133" />
+
